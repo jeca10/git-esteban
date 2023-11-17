@@ -1,0 +1,21 @@
+C:\Users\62_Jornada1.DRDAPRRCLFSD104\Desktop\git-esteban\app subasta\app subasta\bin\Debug\net7.0-windows\app subasta.exe
+C:\Users\62_Jornada1.DRDAPRRCLFSD104\Desktop\git-esteban\app subasta\app subasta\bin\Debug\net7.0-windows\app subasta.deps.json
+C:\Users\62_Jornada1.DRDAPRRCLFSD104\Desktop\git-esteban\app subasta\app subasta\bin\Debug\net7.0-windows\app subasta.runtimeconfig.json
+C:\Users\62_Jornada1.DRDAPRRCLFSD104\Desktop\git-esteban\app subasta\app subasta\bin\Debug\net7.0-windows\app subasta.dll
+C:\Users\62_Jornada1.DRDAPRRCLFSD104\Desktop\git-esteban\app subasta\app subasta\bin\Debug\net7.0-windows\app subasta.pdb
+C:\Users\62_Jornada1.DRDAPRRCLFSD104\Desktop\git-esteban\app subasta\app subasta\obj\Debug\net7.0-windows\app subasta.csproj.AssemblyReference.cache
+C:\Users\62_Jornada1.DRDAPRRCLFSD104\Desktop\git-esteban\app subasta\app subasta\obj\Debug\net7.0-windows\app_subasta.Form1.resources
+C:\Users\62_Jornada1.DRDAPRRCLFSD104\Desktop\git-esteban\app subasta\app subasta\obj\Debug\net7.0-windows\app subasta.csproj.GenerateResource.cache
+C:\Users\62_Jornada1.DRDAPRRCLFSD104\Desktop\git-esteban\app subasta\app subasta\obj\Debug\net7.0-windows\app subasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62_Jornada1.DRDAPRRCLFSD104\Desktop\git-esteban\app subasta\app subasta\obj\Debug\net7.0-windows\app subasta.AssemblyInfoInputs.cache
+C:\Users\62_Jornada1.DRDAPRRCLFSD104\Desktop\git-esteban\app subasta\app subasta\obj\Debug\net7.0-windows\app subasta.AssemblyInfo.cs
+C:\Users\62_Jornada1.DRDAPRRCLFSD104\Desktop\git-esteban\app subasta\app subasta\obj\Debug\net7.0-windows\app subasta.csproj.CoreCompileInputs.cache
+C:\Users\62_Jornada1.DRDAPRRCLFSD104\Desktop\git-esteban\app subasta\app subasta\obj\Debug\net7.0-windows\app subasta.dll
+C:\Users\62_Jornada1.DRDAPRRCLFSD104\Desktop\git-esteban\app subasta\app subasta\obj\Debug\net7.0-windows\refint\app subasta.dll
+C:\Users\62_Jornada1.DRDAPRRCLFSD104\Desktop\git-esteban\app subasta\app subasta\obj\Debug\net7.0-windows\app subasta.pdb
+C:\Users\62_Jornada1.DRDAPRRCLFSD104\Desktop\git-esteban\app subasta\app subasta\obj\Debug\net7.0-windows\app subasta.genruntimeconfig.cache
+C:\Users\62_Jornada1.DRDAPRRCLFSD104\Desktop\git-esteban\app subasta\app subasta\obj\Debug\net7.0-windows\ref\app subasta.dll
+C:\Users\62_Jornada1.DRDAPRRCLFSD104\Desktop\git-esteban\app subasta\app subasta\obj\Debug\net7.0-windows\app_subasta.Properties.Resources.resources
+C:\Users\62_Jornada1.DRDAPRRCLFSD104\Desktop\git-esteban\app subasta\app subasta\obj\Debug\net7.0-windows\app_subasta.Form2.resources
+C:\Users\62_Jornada1.DRDAPRRCLFSD104\Desktop\git-esteban\app subasta\app subasta\obj\Debug\net7.0-windows\app_subasta.Form3.resources
+C:\Users\62_Jornada1.DRDAPRRCLFSD104\Desktop\git-esteban\app subasta\app subasta\obj\Debug\net7.0-windows\app_subasta.Form4.resources
