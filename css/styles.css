@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+:root{
+  --padding-container: 100px 0;
+  --color-title: #001A49;
+}
+
+body{
+  font-family: 'Poppins', sans-serif;
+}
+
+.container{
+  /* width: 90%; */
+  max-width: 1200px;
+  margin: 0 auto;
+  overflow: hidden;
+  padding: var(--padding-container);
+}
+
+.hero{
+  width: 100%;
+  height: 100vh;
+  min-height: 600px;
+  /* max-width: 800px; */
+  /* position: relative; */
+  display: grid;
+  grid-template-rows: 100px 1fr;
+  color: #fbf5f5;
+}
+
+
+
+/* Nav */
+.nav{
+  --padding-container: 0;
+  height: 100%;
+  width: 100%;
+  grid-row: 1/2;
+
+  display: flex;
+  justify-content: space-between;
+/*   display: flex; */
+}
+
+
+.nav__title{
+  font-weight: 300;
+  height: 100%;
+  display: flex;
+  align-items: center;
+
+}
+
+.nav__link{
+  margin-left: auto;
+  padding: 0;
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: max-content;
+  gap: 2em;
+}
+
+.nav__items{
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+
+.nav__menu{
+  margin-left: auto;
+  cursor: pointer;
+  display: none;
+}
+.nav__links{
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav__img{
+  display: block;
+  width: 30;
+}
+
+.nav__close{
+  /* display: var(--show, none); */
+}
+
+/* HERO CONTAINER */
+.hero::before{
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(180deg, #0000007c 0, #0000008c 100%), linear-gradient(to left bottom, #38093f, #31082b, #26071c, #1a040e, #000000);
+  background-size: cover;
+  clip-path: polygon(0 0, 100% 0, 100% 80%, 50% 95%, 0 80%);
+  z-index: -1;
+}
+
+.hero__container{
+  grid-row: 2/3;
+  max-width: 800px;
+  --paddin-container:0;
+  display: grid;
+  grid-template-rows: max-content;
+  align-content: center;
+  gap: 1em;
+  padding-bottom: 100px;
+  text-align: center;
+}
+
+.hero__title{
+  font-size: 4rem;
+  margin-bottom: 12px;
+}
+
+.hero__paragraph{
+  margin-bottom: 20px;
+  color: rgb(218, 218, 218);
+
+}
+
+/* knowledge */
+
+.knowledge {
+  background-color: #e5e5f7;
+  background-image: radial-gradient(#444cf7 0.5px, transparent 0.5px), radial-gradient(#444cf7 0.5px, #e5e5f7 0.5px);
+  background-size: 20px 20px;
+  background-position: 0 0, 10px 10px;
+  overflow: hidden;
+}
+
+.knowledge__container{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1em;
+  align-items: center;
+}
+
+.knowledge__picture{
+  max-width: 500px;
+}
+
+.knowledge__paragraph{
+  line-height: 1.7;
+  margin-bottom: 15px;
+}
